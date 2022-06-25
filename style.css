@@ -1,0 +1,67 @@
+.heading
+{
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+}
+#note
+{
+    color: black;
+    font-size: 18px;
+    font-weight: 900;
+}
+body
+{
+    background-size: cover;
+}
+#speedtext
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.speed
+{
+    float: left;
+}
+.speedanim
+{
+    width: 250px;
+    border-radius: 100px;
+}
+#volumetext
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.volume 
+{
+    float: right;
+}
+.volumeanim
+{
+    width: 250px;
+    border-radius: 100px;
+}
+.playbutton
+{
+    font-size: 20px;
+    width: 130px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.song
+{
+    font-size: 20px;
+    width: auto;
+}
+.pausebutton
+{
+    font-size: 20px;
+    width: 130px;
+}
